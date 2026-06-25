@@ -1,4 +1,7 @@
 # Generic_Rag_Pipeline
+
+(each step has a neat explainable README file)
+
 # 📄 RAG-Based Document Q&A System
 
 A Retrieval-Augmented Generation (RAG) pipeline that enables users to upload documents and ask natural-language questions. The system grounds all answers in the uploaded source material, improving reliability and reducing hallucination compared to vanilla LLM responses.
