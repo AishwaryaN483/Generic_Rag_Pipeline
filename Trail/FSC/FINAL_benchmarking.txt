@@ -1,0 +1,36 @@
+
+📄 Benchmarking: Samples/DT Batch A1.docx
+Parsing completed in 0.24 seconds
+
+--- Chunk Size 100 ---
+Chunking time: 0.00 seconds
+Number of chunks: 63
+Average words per chunk: 98.6
+
+--- Chunk Size 200 ---
+Chunking time: 0.00 seconds
+Number of chunks: 28
+Average words per chunk: 197.0
+
+--- Chunk Size 300 ---
+Chunking time: 0.00 seconds
+Number of chunks: 18
+Average words per chunk: 295.3
+
+📄 Benchmarking: Samples/sample.pptx
+Parsing completed in 0.47 seconds
+
+--- Chunk Size 100 ---
+Chunking time: 0.00 seconds
+Number of chunks: 1
+Average words per chunk: 31.0
+
+--- Chunk Size 200 ---
+Chunking time: 0.00 seconds
+Number of chunks: 1
+Average words per chunk: 31.0
+
+--- Chunk Size 300 ---
+Chunking time: 0.00 seconds
+Number of chunks: 1
+Average words per chunk: 31.0

@@ -1,0 +1,31 @@
+[Slide 1]
+Team Details Team name: Hamming Code Team leader name: Sahithi Marri Problem Statement: Lack of Accessibility and Independence for Visually Impaired Individuals (Open Innovation)
+
+[Slide 2]
+Solution Approach:
+Our solution is a user-friendly mobile application designed to empower visually impaired individuals by enabling them to identify objects, read text, and navigate their surroundings independently. The app allows users to capture images using their smartphone camera, which are then preprocessed and analyzed using AI-powered models, including Google’s Gemini for object detection and OCR tools for text recognition. Once the visual data is interpreted, the information is instantly converted into clear audio feedback using the Google Text-to-Speech API, delivered through the device’s speaker or earphones. The app also supports hands-free interaction through voice commands, allowing users to control the application, request repeated information, or focus on different areas in the scene. With multi-language support and real-time responsiveness, this solution makes daily tasks more accessible, private, and convenient for the visually impaired.
+
+[Slide 3]
+Opportunities
+VocalEyes goes beyond typical apps by combining real-time object detection, text recognition, and voice interaction in one seamless flow. Most existing tools focus on only one function or require manual input—ours is fully hands-free and optimized for smooth, accessible use.
+The app helps visually impaired users by converting visual data into speech instantly. It uses AI to detect objects and read text, then delivers that info through audio, letting users perform daily tasks independently and confidently.
+VocalEyes uniquely blends AI vision, multi-language voice output, and voice command control in a single mobile app. Its simplicity, scalability, and real-world utility make it a truly inclusive and empowering solution.
+
+[Slide 4]
+Features offered by VocalEyes
+Real-Time Object Detection using AI Text Recognition (OCR) for signs, labels, currency, etc. Instant Audio Feedback via Google Text-to-Speech Voice Command Support for hands-free operation Multi-language Output for broader accessibility Scene Description for complete understanding of surroundings User-Friendly Interface with minimal learning curve Offline Mode (planned) for basic object recognition without internet Scalable for Smart Glasses in future iterations
+
+[Slide 5]
+Process flow diagram or Use-case diagram
+
+[Slide 6]
+Architecture diagram of the proposed solution
+
+[Slide 7]
+TechStack
+
+[Slide 8]
+Snapshots of the MVP
+
+[Slide 9]
+Necessary Links for VocalEyes : GitHub Public Repository: https://github.com/Daiwik2005/vocaleyes Demo Video Link (3 Minutes) https://drive.google.com/file/d/1PQzpjG-oAlNRLAxzbM-ThhHlkAT_cUBq/view?usp=sharing MVP Link https://drive.google.com/file/d/1dV2hs0XsLqeYkwSz6Hz1jUFGpD9DsLCt/view?usp=sharing

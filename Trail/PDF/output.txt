@@ -1,0 +1,49 @@
+
+--- Page 1 Text ---
+AISHWARYA NELLUTLA
++91973602722•aishwaryanellutla483@gmail.com•www.linkedin.com/in/aishwarya-nellutla-3ab6322b1 •
+https://github.com/AishwaryaN483•https://leetcode.com/u/Aishwarya ellulta/
+N
+EDUCATION
+B-TechinComputerScienceEngineering-InternetofThings Oct2023-June2027
+8.99CGPA
+VNRVignanaJyothiInstituteofEngineeringandTechnology
+TECHNICALSKILLS
+ProgrammingandCS: C++,Python,DataStructures
+WebDevelopemnt: HTML,CSS,JavaScript,NodeJS
+AI/ML: RAG,NLP,OCRandComputerVision
+CloudandTools: Git,GitHub,MongoDB,MySQL,Firebase,PowerBI,MSExcel,VSCode
+EXPERIENCE
+AbhinavanaTechnologies,: DeveloperIntern August2025–Jan2026
+• BuildingaRAGpipelineintegratingNLPandvectordatabasesfordocument-basedtopic-wiseQ&Awithsource
+attribution.
+• Optimizing semantic chunking and vector search tuning, for achieving 95% retrieval accuracy and response
+latencyin 2sec.
+CollegeWebsiteTeam,: StudentWebContributor[Link] May2025-July2025
+• Collaborated with a team of 5 to debug, maintain, and develop a web server using NextJS, including designing
+thehomepageforanupcomingconferenceatourinstitute.
+PROJECTS
+SmartPocket[Link]
+• Designed SmartPocket, a AI voice-enabled personal finance assistant that tracks expenses, savings goals, and
+transactionsusingnaturallanguageinput.
+• IntegratedReact,TypeScriptwithExpress+MongoDBbackend,enablinguserstoaddtransactionsandsavings
+goalsmanuallyorviavoicecommands. Achieved100+positiveresponsesinpilotsurveywith50+users
+VocalEyes
+• Developed VocalEyes, an AI-powered mobile assistant using Gemini for the visually impaired that identifies
+objectsandtextfromtheenvironmentandgivesaudiooutput.
+• Implemented Google Cloud Vision API for object detection and OCR, integrated with Google Cloud Text-to-
+SpeechAPItodelivernaturalvoiceguidanceviaearphones.
+• Reached70% objectdetectionaccuracyonarangeof5-6metersandprocessed50+imagessamples
+ACHIEVEMENTS
+• Microsoft’sCodeCubicle4.OHackathon1stRunner-Up,Hyderabad
+• SecondPrizeWinner-GoogleDeveloperGroupsGDGC-CVR“SolutionChallenge”Hackathon2025
+• Semi-FinalistinCODENOXCodingcontestconductedbyTuringHut2024
+• Shortlistedfortakingpartin24-hourHackathon,Devastra2K25andbeenactiveindesigningsolution
+• 2nd Runner up - Hult Prize Competition 2023 - VNR VJIET presenting an idea on creating a web application
+onPotholepatching.
+EXTRA-ACTIVITIES
+• Developer&WebsiteAdministrator,VJSV–TheTeluguLiteratureClub.
+• CodingEnthusiast,ConsistentonLeetcode,CodeChef,SmartInterviewsSolvedover100+DSAproblems
+• LeadPresenter,effectivelyCommunicatingprojectvisionduringCodeCubicle,GoogleSolutionChallenge,.
+• HostedandguidedthejurypanelforKrithoathon3.0,organizedbySovenDevelopersatVNRVJIET
+• SelectedasInternalRoundParticipant,SmartIndiaHackathon2024
